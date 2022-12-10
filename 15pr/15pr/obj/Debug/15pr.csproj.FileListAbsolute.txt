@@ -1,0 +1,41 @@
+Z:\C#\15pr\15pr\bin\Debug\15pr.exe.config
+Z:\C#\15pr\15pr\bin\Debug\15pr.exe
+Z:\C#\15pr\15pr\bin\Debug\15pr.pdb
+Z:\C#\15pr\15pr\obj\Debug\15pr.csprojResolveAssemblyReference.cache
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form1.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Properties.Resources.resources
+Z:\C#\15pr\15pr\obj\Debug\15pr.csproj.GenerateResource.Cache
+Z:\C#\15pr\15pr\obj\Debug\15pr.exe
+Z:\C#\15pr\15pr\obj\Debug\15pr.pdb
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form2.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form3.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form4.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form5.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form6.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form7.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form8.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form9.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form10.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form11.resources
+Z:\C#\15pr\15pr\obj\Debug\_15pr.Form12.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\bin\Debug\15pr.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\bin\Debug\15pr.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\bin\Debug\15pr.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\15pr.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form10.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form11.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form12.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form2.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form3.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form4.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form5.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form6.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form7.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form8.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Form9.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\_15pr.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\15pr.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\15pr.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\15pr.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\сп\C#\15pr\15pr\obj\Debug\15pr.pdb
